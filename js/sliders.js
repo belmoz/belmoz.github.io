@@ -1,0 +1,1 @@
+$(".carousel__slider").length>0&&$(".carousel__slider").slick({wariableWidth:!0,dots:!1,arrows:!0,accessibility:!1,slidesToShow:1,autoplaySpeed:3e3,adaptiveHeight:!1,nextArrow:'<button type="button" class="slick-next"></button>',prevArrow:'<button type="button" class="slick-prev"></button>',responsive:[{breakpoint:768,settings:{}}]});
